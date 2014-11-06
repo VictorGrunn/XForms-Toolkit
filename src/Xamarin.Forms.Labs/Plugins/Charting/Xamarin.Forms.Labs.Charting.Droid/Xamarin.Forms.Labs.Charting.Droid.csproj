@@ -39,7 +39,6 @@
   <ItemGroup>
     <Reference Include="FormsViewGroup">
       <HintPath>..\..\..\packages\Xamarin.Forms.1.2.3.6246-pre1\lib\MonoAndroid10\FormsViewGroup.dll</HintPath>
-      <Private>True</Private>
     </Reference>
     <Reference Include="Mono.Android" />
     <Reference Include="mscorlib" />
@@ -56,19 +55,15 @@
     <Reference Include="System.Xml" />
     <Reference Include="Xamarin.Android.Support.v4">
       <HintPath>..\..\..\packages\Xamarin.Android.Support.v4.20.0.0.3\lib\MonoAndroid10\Xamarin.Android.Support.v4.dll</HintPath>
-      <Private>True</Private>
     </Reference>
     <Reference Include="Xamarin.Forms.Core">
       <HintPath>..\..\..\packages\Xamarin.Forms.1.2.3.6246-pre1\lib\MonoAndroid10\Xamarin.Forms.Core.dll</HintPath>
-      <Private>True</Private>
     </Reference>
     <Reference Include="Xamarin.Forms.Platform.Android">
       <HintPath>..\..\..\packages\Xamarin.Forms.1.2.3.6246-pre1\lib\MonoAndroid10\Xamarin.Forms.Platform.Android.dll</HintPath>
-      <Private>True</Private>
     </Reference>
     <Reference Include="Xamarin.Forms.Xaml">
       <HintPath>..\..\..\packages\Xamarin.Forms.1.2.3.6246-pre1\lib\MonoAndroid10\Xamarin.Forms.Xaml.dll</HintPath>
-      <Private>True</Private>
     </Reference>
   </ItemGroup>
   <ItemGroup>

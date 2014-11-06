@@ -63,7 +63,7 @@ namespace Xamarin.Forms.Labs.Droid
 
         public CameraPreview(Context context)
             : base(context)
-        {
+        {		
             mSurfaceView = new SurfaceView(context);
             AddView(mSurfaceView);
 
